@@ -1,0 +1,11 @@
+# OLED Module
+
+Pin No|Pin Id| Arduino| Meaning
+:-:|:-:|:-:|:-
+1|GND|GND|GROUND
+2|VDD|5V| POWER
+3|SCX|12| SPI CLOCK
+4|SDA|11| SPI MOSI
+5|RES|10| RESET
+6|DC|09| DATA / COMMAND
+7|CS|08| CHIP SELECT

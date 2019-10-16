@@ -1,0 +1,6 @@
+# FOR EDUCATIONAL PURPOSES ONLY, DO NOT USE IN PRODUCTION
+# Source code is provided as-is without warranty, and disclaiming liability for damages resulting from using the source code.
+
+Blink       KEYWORD1
+switch_on   KEYWORD2
+toggle      KEYWORD2
