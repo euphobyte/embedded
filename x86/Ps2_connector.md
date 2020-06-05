@@ -9,6 +9,6 @@ Brand and model specific colors, look up the colors for your specific brand.
 |Data|Yellow|
 |Clock|Brown|
 
-|6|-|5|
-|4|-|3|
-|2|-|1|
+|6||5|
+|4||3|
+|2||1|
