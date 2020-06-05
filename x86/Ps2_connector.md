@@ -1,6 +1,6 @@
 ## Ps/2 Connector
 
-Brand specific colors, look up the colors for your specific brand
+Brand and model specific colors, look up the colors for your specific brand
 
 |Pin|Color|
 |-|-|
