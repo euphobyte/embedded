@@ -1,4 +1,7 @@
-# Ps/2 Connector
+## Ps/2 Connector
+
+Brand specific colors, look up the colors for your specific brand
+
 |Pin|Color|
 |-|-|
 |VCC|Red|
