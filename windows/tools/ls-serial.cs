@@ -1,10 +1,6 @@
-// In order to test the UART functionality of the ARM processor we use some tools in Windows 10, written in C#
-// © Simon Stok, June 2021
+// FOR EDUCATIONAL PURPOSES ONLY, DO NOT USE IN PRODUCTION
+// Source code is provided as-is without warranty, and disclaiming liability for damages resulting from using the source code.
 
-using System;
-using System.Management;
-using System.Collections.Generic;
-using System.Linq;
 using System.IO.Ports;
 
 class LsSerial{
